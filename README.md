@@ -1,2 +1,3 @@
 # app-dev
-My first repository
+My favorite series of all time
+**A song of Ice and Fire**
